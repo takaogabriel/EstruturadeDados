@@ -44,6 +44,11 @@ public class Principal{
         System.out.println(listaP.get(1));
 
         System.out.println(obj2.toString());
-        
+
+        //git add . (deixa os arquivos prontos para subir)
+        //git status (verifica o status dos arquivos)
+        //git commit -m "Nome dado" (Nomeia o commit e deixa apto para subir)
+        //git push origin main (Sobe os arquivos para o github)
+
     }   
 }
